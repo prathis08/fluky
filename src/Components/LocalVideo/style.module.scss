@@ -1,0 +1,11 @@
+.localVideoContainer {
+  width: 30vw;
+  height: 50vh;
+}
+
+.videoStream {
+  object-fit: cover;
+  height: 85%;
+  width: 100%;
+  border-radius: 8px;
+}
